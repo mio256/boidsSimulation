@@ -12,8 +12,6 @@ Boids Simulation with Go and SDL2
 
 ## Usage
 
-[Makefile](./Makefile)
-
 ```sh
 go mod tidy
 go run .
